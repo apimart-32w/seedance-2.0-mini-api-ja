@@ -3,7 +3,7 @@
 > **秒あたり $0.0106 (480P)** の従量課金。最低 1 ドルからチャージでき、OpenAI 互換の `https://api.apimart.ai/v1` だけで完結します。
 
 <p align="center"><img src="assets/01-preview-thumb.jpg" width="820" alt="Seedance 2.0 Mini sample frame"></p>
-**[Seedance 2.0 Mini のモデルページ](https://apimart.ai/ja/model/doubao-seedance-2-0)** · **[最新の料金](https://apimart.ai/ja/pricing)** · **[API キーを取得](https://apimart.ai/ja/keys)**
+**[Seedance 2.0 Mini のモデルページ](https://go.apimart.ai/k-d86817)** · **[最新の料金](https://go.apimart.ai/k-406c30)** · **[API キーを取得](https://go.apimart.ai/k-be8bfb)**
 
 現時点で毎秒あたりの単価がもっとも安い動画モデルのひとつで、まず配線を通すのに向く。
 
